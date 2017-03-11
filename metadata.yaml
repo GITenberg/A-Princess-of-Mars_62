@@ -1,5 +1,8 @@
 _repo: A-Princess-of-Mars_62
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burroughs, Edgar Rice
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
 description: Barsoom series, volume 1
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62#A-Princess-of-Mars
 gutenberg_bookshelf:
 - Science Fiction
 - Best Books Ever Listings
